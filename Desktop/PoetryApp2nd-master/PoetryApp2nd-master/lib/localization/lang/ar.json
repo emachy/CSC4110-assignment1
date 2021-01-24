@@ -1,0 +1,25 @@
+{
+    "title": "ارجات",
+    "dashBoard": "الرئيسية",
+    "favorite": "المفضله",
+    "folder": "المجلد",
+    "poems": "القصائد",
+    "profile": "الشخصيه",
+
+    "login_here": "تسجيل الدخول هنا",
+    "email": "البريد الإلكتروني",
+    "password": "كلمه السر",
+    "signup_here": "سجل لها",
+    "forget_password": "نسيت كلمة المرور؟",
+    "reset_password": "نسيت كلمة المرور؟",
+    "login": "تسجيل الدخول",
+    "empty_email": "البريد الالكتروني مطلوب",
+    "empty_password": "كلمة المرور مطلوبة",
+    "invailed_email": "آدرس ایمیل نامعتبر است",
+    "invailed_password": "الحد الأدنى المطلوب 6 أحرف",
+    "confirm_password": "تأكيد كلمة المرور",
+    "password_notMatch": "كلمة المرور غير مطابقة",
+    "sign_up": "سجل"
+
+    
+}

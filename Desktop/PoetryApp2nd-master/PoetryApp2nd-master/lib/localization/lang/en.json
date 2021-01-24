@@ -1,0 +1,34 @@
+{
+    "title": "Argot",
+    "dashBoard": "Dashboard",
+    "favorite": "favorite",
+    "folder": "Notebook",
+    "poems": "MyPoems",
+    "profile": "profile",
+
+
+
+
+    "login_here": "Login Here",
+    "email": "email",
+    "password": "password",
+    "signup_here": "Sign up Here",
+    "forget_password": "Forgot password?",
+    "reset_password": "Forgot password?",
+    "login": "Login",
+    "empty_email": "Email Is Required",
+    "empty_password": "Password Is Required",
+    "invailed_email": "Invalid Email Address",
+    "invailed_password": "Minimum 6 Characters Required",
+    "confirm_password": "Confirm Password",
+    "password_notMatch": "Passwords do not match",
+    "sign_up": "Sign Up"
+
+
+    
+    
+
+    
+
+
+}

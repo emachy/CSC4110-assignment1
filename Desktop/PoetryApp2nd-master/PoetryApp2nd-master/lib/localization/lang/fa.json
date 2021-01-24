@@ -1,0 +1,26 @@
+{
+    "title": "آرگوت",
+    "dashBoard": "داشبورد",
+    "favorite": "محبوب",
+    "folder": "فولدر",
+    "poems": "شعرها",
+    "profile": "مشخصات",
+
+    "login_here": "از اینجا وارد شوید",
+    "email": "پست الکترونیک",
+    "password": "کلمه عبور",
+    "signup_here": "ثبت نام او",
+    "forget_password": "فراموشی رمز عبور؟",
+    "reset_password": "فراموشی رمز عبور؟",   
+     "login": "وارد شدن",
+    "empty_email": "ایمیل لازم است",
+    "empty_password": "رمز عبور مورد نیاز است",
+    "invailed_email": "آدرس ایمیل نامعتبر است",
+    "invailed_password": "حداقل 6 کاراکتر مورد نیاز است",
+    "confirm_password": "رمز ورود را تأیید کنید",
+    "password_notMatch": "رمزهای ورود مطابقت ندارند",
+    "sign_up": "ثبت نام"
+    
+
+
+}

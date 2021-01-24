@@ -1,0 +1,31 @@
+{
+    "title": "Argot",
+    "dashBoard": "Ana Sayfa",
+    "favorite": "favori",
+    "folder": "klasör",
+    "poems": "Şiirler",
+    "profile": "profil",
+
+
+    "login_here": "Buradan Giriş Yapın",
+    "email": "email",
+    "password": "şifre",
+    "signup_here": "Buradan Kaydol",
+    "forget_password": "Parola mı Unuttum?",
+    "reset_password": "Parola mı Unuttum?",
+    "login": "giriş",
+    "empty_email": "E-posta Gerekli",
+    "empty_password": "Parola Gerekli",
+    "invailed_email": "Geçersiz E-posta Adresi",
+    "invailed_password":  "En Az 6 Karakter Gerekli",
+    "confirm_password": "Parolayı Onayla",
+    "password_notMatch": "Parolalar eşleşmiyor",
+    "sign_up":  "Kaydol"
+
+    
+    
+
+    
+
+
+}
